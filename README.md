@@ -176,7 +176,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions or feedback, please contact:
 
-**Your Name**
+**David Mondragon**
 
 - **Email:** dragon18saiz@gmail.com
 - **GitHub:** [mondragonSaiz](https://github.com/mondragonSaiz)
