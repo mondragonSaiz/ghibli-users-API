@@ -38,8 +38,8 @@ The **Ghibli Users API** is a RESTful API built with Node.js, Express, and MySQL
     npm install
 
 3. **Set Up the Database**
-    - Create a MySQL database (JawsDB)
-    - Run the following SQL query to create the users table
+  - Create a MySQL database (JawsDB)
+- Run the following SQL query to create the users table
     ```bash
     CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -50,7 +50,7 @@ The **Ghibli Users API** is a RESTful API built with Node.js, Express, and MySQL
     );
 
 4. **Configure Environment Variables**
-    - Create a .env file in the root directory:
+ - Create a .env file in the root directory:
     ```bash
     PORT=3000
     DB_HOST=your_jawsdb_host
@@ -59,7 +59,7 @@ The **Ghibli Users API** is a RESTful API built with Node.js, Express, and MySQL
     DB_NAME=your_jawsdb_database
 
 5. **Run the Application**
-    - Start the server in development mode:
+  - Start the server in development mode:
     ```bash
     npm run dev
 
