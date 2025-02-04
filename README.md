@@ -85,16 +85,16 @@ Users
     Content-Type: application/json
 
     {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "David Mondragon",
+    "email": "dragon18saiz@gmail.com",
     "role": "films"
     }
 - Response:
     ```bash
     {
     "id": 1,
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "David Mondragon",
+    "email": "dragon18saiz@gmail.com",
     "role": "films"
     }
 
