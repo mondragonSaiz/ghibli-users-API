@@ -62,7 +62,8 @@ The **Ghibli Users API** is a RESTful API built with Node.js, Express, and MySQL
     - Start the server in development mode:
     ```bash
     npm run dev
-    - Start the server in production mode:
+
+  - Start the server in production mode:
     ```bash
     npm run dev
 
